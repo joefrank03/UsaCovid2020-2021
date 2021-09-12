@@ -12,7 +12,7 @@ PLOTS_DATA_PATH = 'time_series_covid/plots'
 if not os.path.exists(PLOTS_DATA_PATH):
     os.mkdir(PLOTS_DATA_PATH)
 
-df = pd.read_csv(filepath_or_buffer=r"time_series_covid/data/Provisional_COVID-19_Deaths_by_Sex_and_Age.csv",
+df = pd.read_csv(filepath_or_buffer=r"time_series_covid/Provisional_COVID-19_Deaths_by_Sex_and_Age.csv",
                  low_memory=False,
                  index_col='End Date',
                  parse_dates=True,
