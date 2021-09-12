@@ -1,4 +1,4 @@
-# UsaCovid2020-2021
+# USA Covid 2020-2021
 ## Covid cases 
 
 > This Project Compares Deaths for Covid, Pneumonia, Influenze between **2020 - 2021** by Month.
